@@ -18,7 +18,6 @@
 #pragma once
 
 #define TARGET_BOARD_IDENTIFIER "WAF4"
-
 #define USBD_PRODUCT_STRING  "WEACTF405"
 
 #define LED0                    PB9
